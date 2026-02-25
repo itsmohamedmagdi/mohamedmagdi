@@ -1,7 +1,7 @@
 # Hi There 👋
 - 👀 I’m Engineering Graduate interested in artificial intelligence and Software Engineering.
 - 🌱 I’m currently Deeping my knowledge in Ai and Machine Learning to build real-world Projects.
-- 🤝 Open to internships, junior roles, and collaborations in Machine Learning, AI, or Software Engineering.
+- 🤝 I’m looking to collaborate on anything related to machine learning and artificial intelligence, python ml frameworks ( TensorFlow and PyTorch ).
 - 📫 You can reach me out via itsmohamedmagdi@gmail.com
 
 <!---
